@@ -8,3 +8,18 @@
 	url = https://github.com/becarioprecario/dcluster
 	shallow = true
 	registered = true
+[submodule "DClusterm"]
+	path = DClusterm
+	url = https://github.com/cran/DClusterm
+	shallow = true
+	registered = true
+[submodule "INLABMA"]
+	path = INLABMA
+	url = https://github.com/cran/INLABMA
+	shallow = true
+	registered = true
+[submodule "RGIFT"]
+	path = RGIFT
+	url = https://github.com/cran/RGIFT
+	shallow = true
+	registered = true
