@@ -10,7 +10,7 @@
 	url = https://github.com/cran/DClusterm
 [submodule "INLABMA"]
 	path = INLABMA
-	url = https://github.com/cran/INLABMA
+	url = https://github.com/becarioprecario/inlabma
 [submodule "RGIFT"]
 	path = RGIFT
 	url = https://github.com/cran/RGIFT
