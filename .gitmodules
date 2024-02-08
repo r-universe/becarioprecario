@@ -13,4 +13,4 @@
 	url = https://github.com/becarioprecario/inlabma
 [submodule "RGIFT"]
 	path = RGIFT
-	url = https://github.com/cran/RGIFT
+	url = https://github.com/becarioprecario/rgift
